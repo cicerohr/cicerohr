@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
     <img alt="Cícero's GitHub stats" width="430" src="https://github-readme-stats.vercel.app/api?username=cicerohr&show_icons=true&theme=dracula">
     <img alt="Linguagens" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerohr&layout=compact&theme=dracula">
 </p>
