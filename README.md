@@ -1,19 +1,37 @@
-![Cícero's GitHub stats](https://github-readme-stats.vercel.app/api?username=cicerohr&show_icons=true&theme=dracula)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerohr&layout=compact&theme=dracula)](https://github.com/cicerohr)
+<p align="left">
+    <img alt="Cícero's GitHub stats" height="200" src="https://github-readme-stats.vercel.app/api?username=cicerohr&show_icons=true&theme=dracula">
+    <img alt="Linguagens" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerohr&layout=compact&theme=dracula">
+</p>
 
-## Linguagens e Ferramentas
+### Tech Stack:
 
-![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-E34F26?style=for-the-badge&logo=sass&logoColor=white)
-![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Github python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000.svg?&style=for-the-badge&logo=Git&logoColor=red)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000000.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=magenta)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=97CA00)
+&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=F29111)
+&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
+&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+&nbsp;
+![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobe-xd)
+&nbsp;
 
-### Redes sociais:
+### Social Links:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cicerohr)](https://github.com/cicerohr)
-[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/cicerohr)
+<p align="left">
+    <a href="https://twitter.com/cicerohr" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-cicerohr-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    </a>
+    <a href="https://codepen.io/cicerohr" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-cicerohr-05122A?style=flat&logo=codepen" alt="codepen"/>
+    </a>
+</p>
