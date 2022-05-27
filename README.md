@@ -24,6 +24,8 @@
 &nbsp;
 ![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobe-xd)
 &nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+&nbsp;
 
 ### Social Links:
 
