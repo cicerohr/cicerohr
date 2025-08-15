@@ -30,8 +30,8 @@
 ### Social Links:
 
 <p align="left">
-    <a href="https://twitter.com/cicerohr" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-cicerohr-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    <a href="https://bsky.app/profile/cicerohr.bsky.social" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-cicerohr-05122A?style=flat&logo=bluesky" alt="BlueSky"/>  
     </a>
     <a href="https://codepen.io/cicerohr" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-cicerohr-05122A?style=flat&logo=codepen" alt="codepen"/>
